@@ -15,7 +15,7 @@ Site for a florist in Medveđa that also decorates celebrations and runs a bouti
   <tr><td><b>Location</b></td><td>Medveđa, Serbia</td></tr>
   <tr><td><b>Type</b></td><td>Multi-page website</td></tr>
   <tr><td><b>My role</b></td><td>Design, development, SEO, hosting and maintenance</td></tr>
-  <tr><td><b>Stack</b></td><td>Next.js 16, React Three Fiber, GSAP, Lenis, Tailwind 4, TypeScript</td></tr>
+  <tr><td><b>Stack</b></td><td>Next.js 16, React Three Fiber, Tailwind 4, TypeScript</td></tr>
 </table>
 
 ## About the project
@@ -28,7 +28,7 @@ The florist, celebrations and boutique each got their own page and address. The 
 
 - Six sections with their own addresses: florist, celebrations, boutique, gallery, about and contact
 - A homepage that lists all sixteen services, from bridal bouquets to laser engraving and CNC wood decor
-- A decorative React Three Fiber scene, with GSAP and Lenis handling transitions and scrolling
+- A decorative React Three Fiber scene that loads on the first interaction and stays static without a GPU
 - Phone, Viber and Instagram as the contact options, each one tap away on mobile
 - Florist structured data with an offer catalogue, plus privacy, terms and cookie pages
 

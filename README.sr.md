@@ -15,7 +15,7 @@ Sajt za cvećaru iz Medveđe koja radi i dekoracije proslava i butik, sa posebni
   <tr><td><b>Lokacija</b></td><td>Medveđa</td></tr>
   <tr><td><b>Vrsta</b></td><td>Sajt sa više strana</td></tr>
   <tr><td><b>Moj deo posla</b></td><td>Dizajn, izrada, SEO, hosting i održavanje</td></tr>
-  <tr><td><b>Tehnologije</b></td><td>Next.js 16, React Three Fiber, GSAP, Lenis, Tailwind 4, TypeScript</td></tr>
+  <tr><td><b>Tehnologije</b></td><td>Next.js 16, React Three Fiber, Tailwind 4, TypeScript</td></tr>
 </table>
 
 ## O projektu
@@ -28,7 +28,7 @@ Cvećara, proslave i butik dobili su svaki svoju stranu i adresu. Galerija, stra
 
 - Šest celina sa sopstvenim adresama: cvećara, proslave, butik, galerija, o nama i kontakt
 - Početna koja nabraja svih šesnaest usluga, od venčanih buketa do laserskog graviranja i CNC dekora od drveta
-- Dekorativna 3D scena u React Three Fiber-u, uz GSAP i Lenis za prelaze i skrol
+- Dekorativna 3D scena u React Three Fiber-u, koja se učitava na prvu interakciju, a bez GPU-a ostaje statična
 - Telefon, Viber i Instagram za kontakt, na mobilnom na jedan dodir
 - Strukturisani podaci za cvećaru sa katalogom ponude, uz strane o privatnosti, uslovima i kolačićima
 
