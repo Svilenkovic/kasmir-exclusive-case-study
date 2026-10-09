@@ -37,9 +37,9 @@ Cvećara, proslave i butik dobili su svaki svoju stranu i adresu. Galerija, stra
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Telefon | 99 | 100 | 100 | 100 |
-| Desktop | 97 | 100 | 100 | 100 |
+| Desktop | 90 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Brand`, `Florist`, `LocalBusiness`, `Organization`, `Person`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `Brand`, `Florist`, `LocalBusiness`, `Organization`, `Person`.
 
 ## Snimci ekrana
 

@@ -4,7 +4,7 @@
 
 Site for a florist in Medveđa that also decorates celebrations and runs a boutique, with a separate way in for each of the three.
 
-**[kasmirexclusive.rs](https://kasmirexclusive.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/kasmir-exclusive) · [Srpski](README.sr.md)
+**[kasmirexclusive.rs](https://kasmirexclusive.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/kasmir-exclusive) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -37,9 +37,9 @@ The florist, celebrations and boutique each got their own page and address. The 
 | | Performance | Accessibility | Best practices | SEO |
 | :-- | :-: | :-: | :-: | :-: |
 | Mobile | 99 | 100 | 100 | 100 |
-| Desktop | 97 | 100 | 100 | 100 |
+| Desktop | 90 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Brand`, `Florist`, `LocalBusiness`, `Organization`, `Person`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `Brand`, `Florist`, `LocalBusiness`, `Organization`, `Person`.
 
 ## Screenshots
 
